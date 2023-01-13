@@ -1,6 +1,6 @@
-# Application UI Pantai Menganti
+# WISATA
 
-Nama : Wahyu Indra PERMANA<br>
+Nama : Wahyu Indra Permana<br>
 Kelas : IK-2A <br>
 Nim   : 33421023<br>
 
