@@ -1,8 +1,8 @@
 # Application UI Pantai Menganti
 
-Nama : MOH AUFAL KHOLQI<br>
+Nama : Wahyu Indra PERMANA<br>
 Kelas : IK-2A <br>
-No Absen : 15 <br>
+Nim   : 33421023<br>
 
 ## Preview UI
 
